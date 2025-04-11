@@ -1,1 +1,3 @@
-Credit to Jon Barron's public academic website: https://jonbarron.info/.
+Website: https://xavhl.github.io
+
+Credit to [Jon Barron](https://jonbarron.info/)
